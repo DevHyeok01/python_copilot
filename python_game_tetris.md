@@ -228,6 +228,6 @@ if event.key == pygame.K_r:
    python tetris_final.py
    ```
 
-Copilot의 도움을 받아 단계별로 발전시킨 테트리스 게임입니다. 추가 요청이 있다면 언제든 말씀해주세요!
+Copilot의 도움을 받아 단계별로 발전시킨 테트리스 게임입니다.
 ```
 
