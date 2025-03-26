@@ -15,7 +15,7 @@
 ![image](https://github.com/user-attachments/assets/bb0b2429-d45e-48e2-a85f-09b8a52ef1d4)
 
 3. 게임의 기능을 추가.
-4. ![426864436-fea10c0e-6766-446e-93da-7ee96371e775](https://github.com/user-attachments/assets/fad55ada-4e8c-49dd-8f7e-a710e40b49e2)
+![426864436-fea10c0e-6766-446e-93da-7ee96371e775](https://github.com/user-attachments/assets/fad55ada-4e8c-49dd-8f7e-a710e40b49e2)
 
 5. 디버깅 메시지 출력도 함께 볼 수 있다.
 ![426864674-1824a1c1-f1b5-404b-942c-82083169b4e6](https://github.com/user-attachments/assets/00b3048c-aa6d-4b09-883c-deb5c36a55ce)
