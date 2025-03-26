@@ -12,7 +12,7 @@
 ![426864100-1549969d-a716-44dd-986f-91010d3128f7](https://github.com/user-attachments/assets/cefac929-6a20-4967-be2b-165ba638283a)
 
 2. 디버깅 또한 VScode안에서 coPilot을 이용해서 진행함.
-![426864258-12dad937-39ed-4413-bfa9-e43ecbb625c3](https://github.com/user-attachments/assets/4d677249-3685-448f-83c1-e6b8ddc95538)
+![image](https://github.com/user-attachments/assets/bb0b2429-d45e-48e2-a85f-09b8a52ef1d4)
 
 3. 게임의 기능을 추가.
 4. ![426864436-fea10c0e-6766-446e-93da-7ee96371e775](https://github.com/user-attachments/assets/fad55ada-4e8c-49dd-8f7e-a710e40b49e2)
