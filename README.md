@@ -7,7 +7,8 @@
 ## 과정 설명
 
 1. VScode에서 Github Copilot확장 프로그램을 사용해서 noCode 프로그래밍 실습을 진행함.
-![426863991-7870981c-dae1-4b45-a4e8-6c1cac132513](https://github.com/user-attachments/assets/8780dd7c-34f2-4a8a-9861-0b987bd34e52)
+![image](https://github.com/user-attachments/assets/cc82bd9c-da0a-4c9d-869d-0cf92e650ccc)
+
 ![426864100-1549969d-a716-44dd-986f-91010d3128f7](https://github.com/user-attachments/assets/cefac929-6a20-4967-be2b-165ba638283a)
 
 2. 디버깅 또한 VScode안에서 coPilot을 이용해서 진행함.
