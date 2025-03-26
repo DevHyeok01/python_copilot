@@ -33,6 +33,7 @@
 
 7. 최종 실행 화면.
 
-![Uploading 426865163-ea4d0e8e-1395-496d-bca8-04b6f95247be.png…]()
+![image](https://github.com/user-attachments/assets/3eeb9fe5-4b58-435d-97a4-1e57a56de5a8)
+
 
    
