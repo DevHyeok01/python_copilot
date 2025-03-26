@@ -1,11 +1,6 @@
-아래는 제가 정리한 내용을 Markdown(.md) 형식으로 변환한 것입니다. 이 내용을 복사해서 VSCode나 다른 텍스트 편집기에서 `.md` 파일(예: `tetris_development.md`)로 저장하면 됩니다. Markdown은 깔끔한 문서 작성을 지원하며, 헤더, 코드 블록, 목록 등을 활용해 가독성을 높였습니다.
+# 테트리스 게임 개발 과정 (VSCode + Copilot)
 
----
-
-```markdown
-# 테트리스 게임 개발 과정 (VSCode + Copilot 가정)
-
-VSCode에서 Copilot을 활용해 파이썬으로 테트리스 게임을 단계별로 개발한 과정을 정리했습니다. Copilot의 자동 완성 제안을 기반으로 진행되었다고 가정합니다.
+###VSCode에서 Copilot을 활용해 파이썬으로 테트리스 게임을 단계별로 개발한 과정을 정리했습니다.
 
 ## 1. 초기 설정 및 기본 게임 구현
 - **상황**: VSCode에서 새 파일 `tetris.py`를 열고 Copilot 활성화.
